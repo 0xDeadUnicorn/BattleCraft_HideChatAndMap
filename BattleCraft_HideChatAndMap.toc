@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: BattleCraft |cff00ff99HideChatAndMap|r
+## Author: 0xDeadUnicorn
+## Notes: A button to hide chat and map. Press |cff00ff99LMB/RMB|r to hide
+## SavedVariablesPerCharacter: HCBxpos, HCBypos, HCBkeyable, HCBuseralpha
+BattleCraft_HideChatAndMap.lua
